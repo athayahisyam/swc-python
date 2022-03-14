@@ -11,6 +11,7 @@ For more information, please visit the [Software Carpentry's Repository Page][sw
 | 1 | Python Fundamentals | 10-Mar-2022 |
 | 2 | Analyzing Tabular Data | 10-Mar-2022 |
 | 3 | Data Visualization | 13-Mar-2022 |
+| 4 | Storing Multiple Values in Lists | 14-Mar-2022 |
 
 
 [swc-python]: https://swcarpentry.github.io/python-novice-inflammation/

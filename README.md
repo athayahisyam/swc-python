@@ -13,6 +13,7 @@ For more information, please visit the [Software Carpentry's Repository Page][sw
 | 3 | Data Visualization | 13-Mar-2022 |
 | 4 | Storing Multiple Values in Lists | 14-Mar-2022 |
 | 5 | Repeating Actions with For Loop | 17-Mar-2022 |
+| 6 | Analyzing Data from Multiple Files | 18-Mar-2022 |
 
 
 [swc-python]: https://swcarpentry.github.io/python-novice-inflammation/
